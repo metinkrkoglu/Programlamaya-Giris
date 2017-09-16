@@ -1,0 +1,8 @@
+#include<stdio.h>
+main(){
+int x;
+printf("Bir Sayi Giriniz: ");
+scanf("%d",&x);
+printf("Girdiginiz sayi : %d 'dir",x);
+return 0;
+}
